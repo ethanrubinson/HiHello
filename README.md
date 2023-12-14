@@ -1,9 +1,9 @@
 # HiHello
-HiHello Coding CHallenge
+HiHello Coding Challenge
 
 This project offers the functionality and behavior of a simple calculator (similar to that of the OSX calculator).
 
-Buttons are entered in character by character (no spaces) and pressing `Enter` will execute the sequence of button presses on the calculator and output the resulting "on-screen" value.
+Buttons are entered character by character (no spaces) and pressing `Enter` will execute the sequence of button presses on the calculator and output the resulting "on-screen" value.
 
 ## Download, Compile and Run
 1) `git clone https://github.com/ethanrubinson/HiHello`
